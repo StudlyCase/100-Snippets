@@ -11,5 +11,5 @@ You can get an overview of this information in the table.
 
 ## Reporting a Vulnerability
 
-Email foldix@tuta.io to report vulnerabilities. The fix is expected to be delivered within a maximum of 5 days.
+Email joel@webrelics.xyz to report vulnerabilities. The fix is expected to be delivered within a maximum of 5 days.
 If your report is denied, you will be notified of our decision and the reason why.
